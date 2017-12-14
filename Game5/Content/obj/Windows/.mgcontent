@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/projects/Game5/Game5/Content/ThemeSong.mp3</File>
+    <File>E:/projects/Game5/Game5/Content/JumpSmall.wav</File>
+    <File>E:/projects/Game5/Game5/Content/BrickSmash.wav</File>
+    <File>E:/projects/Game5/Game5/Content/Bump.wav</File>
+    <File>E:/projects/Game5/Game5/Content/FireBall.wav</File>
+    <File>E:/projects/Game5/Game5/Content/JumpSuper.wav</File>
+    <File>E:/projects/Game5/Game5/Content/Kick.wav</File>
+    <File>E:/projects/Game5/Game5/Content/PowerUp.wav</File>
+    <File>E:/projects/Game5/Game5/Content/PowerUpAppears.wav</File>
+    <File>E:/projects/Game5/Game5/Content/mariodie.wav</File>
+    <File>E:/projects/Game5/Game5/Content/Shrink.wav</File>
+    <File>E:/projects/Game5/Game5/Content/Coin.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
